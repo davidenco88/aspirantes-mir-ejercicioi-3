@@ -1,0 +1,2 @@
+#Debe ignorar el archivo .env
+.env
